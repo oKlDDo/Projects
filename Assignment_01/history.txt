@@ -1,0 +1,71 @@
+Nicholas Kidd   
+    1  cd downloads
+    2  cd Downloads
+    3  ls
+    4  gcc -o prog prog01.c
+    5  ./prog 3
+    6  ./prog
+    7  ./prog 1 2 3
+    8  /prog abc
+    9  ./prog abc
+   10  ./prog abc 1
+   11  /prog 1 abc
+   12  ./prog 1 abc
+   13  ./prog 3 27
+   14  ./prog 8 27
+   15  ./prog 8 24
+   16  ./prog 100 115000
+   17  cd Downloads
+   18  bash scipt01.sh prog01.c 1
+   19  bash script01.sh prog01.c 1
+   20  clear
+   21  bash script01.sh prog01.c 
+   22  bash ./script01.sh ./prog01.c 
+   23  ./prog 
+   24  bash ./script01.sh ./prog01.c 
+   25  man
+   26  man cd
+   27  man
+   28  cd
+   29  man -k
+   30  ls
+   31  cd Desktop
+   32  mkdir newFolder
+   33  ls
+   34  cd newFolder
+   35  pwd
+   36  clear
+   37  man
+   38  cd
+   39  clear
+   40  cd Desktop
+   41  mkdir newFolder
+   42  cd newFolder
+   43  pwd
+   44  clear
+   45  cd
+   46  clear
+   47  cd Desktop
+   48  mkdir newFolder
+   49  cd newFolder
+   50  pwd
+   51  pwd > path.txt
+   52  pr path.txt
+   53  touch new.txt
+   54  ls
+   55  ls -la
+   56  rm new.txt
+   57  ls
+   58  cd Downloads
+   59  ls
+   60  cd
+   61  cd Desktop
+   62  ls
+   63  cd Screenshots
+   64  ls
+   65  cd
+   66  cd Pictures
+   67  ls
+   68  history
+   69  ls -la
+   70  history > history.txt
